@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+code {
+  color: #ff79c6;
+  background-color: #282a36;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.no-bullet {
+  list-style-type: none;
+  padding: 0;
+}
