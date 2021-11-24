@@ -1,4 +1,6 @@
 // this is your function
+// code borrowed and modified from: https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a
+
 function fizzBuzz() {
   for (let i = 1; i < 31; i++) {
     if (i % 15 == 0) console.log('FizzBuzz');
